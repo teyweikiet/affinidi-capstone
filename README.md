@@ -57,6 +57,8 @@ This is a submission for [StackUp's Bounty - Build Upon the Affinidi Capstone](h
   - check [here](/api/kv-store.mjs) for implementation of Vercel KV Store
   - check [here](/api/index.mjs#19-24) for how it is used in affinidiProvider
 
+![logged-in screenshot](/docs/logged-in-ecommerce-affinidi.png)
+
 ## Built With
 
 ### Backend
