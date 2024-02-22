@@ -16,7 +16,7 @@ await affinidiProvider(app, {
   client_id: process.env.AFFINIDI_CLIENT_ID,
   client_secret: process.env.AFFINIDI_CLIENT_SECRET,
   redirect_uris: [process.env.AFFINIDI_REDIRECT_URI],
-  expressSesssion: {
+  expressSesssion: process.env.ENVIRONMENT !== "local" && {
     secret: process.env.AFFINIDI_SESSION_SECRETS.split(";"),
     store: new VercelKvStore(),
     resave: true,

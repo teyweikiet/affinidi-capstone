@@ -25,7 +25,6 @@ const Header = () => {
       if (currency[key]) {
         profile.currency = currency[key].Currency
         profile.countryCode = currency[key].Code.toLowerCase()
-        console.log(profile.countryCode)
       }
       setLocalProfile(profile)
       setProfile(profile) // assuming setProfile comes from a context and is stable
@@ -52,8 +51,14 @@ const Header = () => {
     }
     if (profile) {
       return (
-     <div>
-     <span>Welcome, {profile.givenName}</span>
+     <div style={{ display: 'flex', alignItems: 'center' }}>
+      <span>
+        Welcome, {profile.givenName}
+      </span>
+      {
+        profile.picture &&
+        <img src={profile.picture} alt="profile picture" width="25" height="25" style={{ margin: "0 5px", borderRadius: "50%" }} />
+      }
      <button onClick={logout}>Logout</button>
      </div>
       )
