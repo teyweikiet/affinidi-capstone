@@ -1,0 +1,1526 @@
+{
+  "afghanistan": {
+    "Territory": "Afghanistan",
+    "Code": "AF",
+    "Currency": "AFN",
+    "Name": "Afghan Afghani"
+  },
+  "ålandislands": {
+    "Territory": "Åland Islands",
+    "Code": "AX",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "albania": {
+    "Territory": "Albania",
+    "Code": "AL",
+    "Currency": "ALL",
+    "Name": "Albanian Lek"
+  },
+  "algeria": {
+    "Territory": "Algeria",
+    "Code": "DZ",
+    "Currency": "DZD",
+    "Name": "Algerian Dinar"
+  },
+  "americansamoa": {
+    "Territory": "American Samoa",
+    "Code": "AS",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "andorra": {
+    "Territory": "Andorra",
+    "Code": "AD",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "angola": {
+    "Territory": "Angola",
+    "Code": "AO",
+    "Currency": "AOA",
+    "Name": "Angolan Kwanza"
+  },
+  "anguilla": {
+    "Territory": "Anguilla",
+    "Code": "AI",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "antiguabarbuda": {
+    "Territory": "Antigua & Barbuda",
+    "Code": "AG",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "argentina": {
+    "Territory": "Argentina",
+    "Code": "AR",
+    "Currency": "ARS",
+    "Name": "Argentine Peso"
+  },
+  "armenia": {
+    "Territory": "Armenia",
+    "Code": "AM",
+    "Currency": "AMD",
+    "Name": "Armenian Dram"
+  },
+  "aruba": {
+    "Territory": "Aruba",
+    "Code": "AW",
+    "Currency": "AWG",
+    "Name": "Aruban Florin"
+  },
+  "ascensionisland": {
+    "Territory": "Ascension Island",
+    "Code": "AC",
+    "Currency": "SHP",
+    "Name": "St. Helena Pound"
+  },
+  "australia": {
+    "Territory": "Australia",
+    "Code": "AU",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "austria": {
+    "Territory": "Austria",
+    "Code": "AT",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "azerbaijan": {
+    "Territory": "Azerbaijan",
+    "Code": "AZ",
+    "Currency": "AZN",
+    "Name": "Azerbaijani Manat"
+  },
+  "bahamas": {
+    "Territory": "Bahamas",
+    "Code": "BS",
+    "Currency": "BSD",
+    "Name": "Bahamian Dollar"
+  },
+  "bahrain": {
+    "Territory": "Bahrain",
+    "Code": "BH",
+    "Currency": "BHD",
+    "Name": "Bahraini Dinar"
+  },
+  "bangladesh": {
+    "Territory": "Bangladesh",
+    "Code": "BD",
+    "Currency": "BDT",
+    "Name": "Bangladeshi Taka"
+  },
+  "barbados": {
+    "Territory": "Barbados",
+    "Code": "BB",
+    "Currency": "BBD",
+    "Name": "Barbadian Dollar"
+  },
+  "belarus": {
+    "Territory": "Belarus",
+    "Code": "BY",
+    "Currency": "BYN",
+    "Name": "Belarusian Ruble"
+  },
+  "belgium": {
+    "Territory": "Belgium",
+    "Code": "BE",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "belize": {
+    "Territory": "Belize",
+    "Code": "BZ",
+    "Currency": "BZD",
+    "Name": "Belize Dollar"
+  },
+  "benin": {
+    "Territory": "Benin",
+    "Code": "BJ",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "bermuda": {
+    "Territory": "Bermuda",
+    "Code": "BM",
+    "Currency": "BMD",
+    "Name": "Bermudan Dollar"
+  },
+  "bhutan": {
+    "Territory": "Bhutan",
+    "Code": "BT",
+    "Currency": "BTN",
+    "Name": "Bhutanese Ngultrum"
+  },
+  "bolivia": {
+    "Territory": "Bolivia",
+    "Code": "BO",
+    "Currency": "BOB",
+    "Name": "Bolivian Boliviano"
+  },
+  "bosniaherzegovina": {
+    "Territory": "Bosnia & Herzegovina",
+    "Code": "BA",
+    "Currency": "BAM",
+    "Name": "Bosnia-Herzegovina Convertible Mark"
+  },
+  "botswana": {
+    "Territory": "Botswana",
+    "Code": "BW",
+    "Currency": "BWP",
+    "Name": "Botswanan Pula"
+  },
+  "bouvetisland": {
+    "Territory": "Bouvet Island",
+    "Code": "BV",
+    "Currency": "NOK",
+    "Name": "Norwegian Krone"
+  },
+  "brazil": {
+    "Territory": "Brazil",
+    "Code": "BR",
+    "Currency": "BRL",
+    "Name": "Brazilian Real"
+  },
+  "britishindianoceanterritory": {
+    "Territory": "British Indian Ocean Territory",
+    "Code": "IO",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "britishvirginislands": {
+    "Territory": "British Virgin Islands",
+    "Code": "VG",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "brunei": {
+    "Territory": "Brunei",
+    "Code": "BN",
+    "Currency": "BND",
+    "Name": "Brunei Dollar"
+  },
+  "bulgaria": {
+    "Territory": "Bulgaria",
+    "Code": "BG",
+    "Currency": "BGN",
+    "Name": "Bulgarian Lev"
+  },
+  "burkinafaso": {
+    "Territory": "Burkina Faso",
+    "Code": "BF",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "burundi": {
+    "Territory": "Burundi",
+    "Code": "BI",
+    "Currency": "BIF",
+    "Name": "Burundian Franc"
+  },
+  "cambodia": {
+    "Territory": "Cambodia",
+    "Code": "KH",
+    "Currency": "KHR",
+    "Name": "Cambodian Riel"
+  },
+  "cameroon": {
+    "Territory": "Cameroon",
+    "Code": "CM",
+    "Currency": "XAF",
+    "Name": "Central African CFA Franc"
+  },
+  "canada": {
+    "Territory": "Canada",
+    "Code": "CA",
+    "Currency": "CAD",
+    "Name": "Canadian Dollar"
+  },
+  "canaryislands": {
+    "Territory": "Canary Islands",
+    "Code": "IC",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "capeverde": {
+    "Territory": "Cape Verde",
+    "Code": "CV",
+    "Currency": "CVE",
+    "Name": "Cape Verdean Escudo"
+  },
+  "caribbeannetherlands": {
+    "Territory": "Caribbean Netherlands",
+    "Code": "BQ",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "caymanislands": {
+    "Territory": "Cayman Islands",
+    "Code": "KY",
+    "Currency": "KYD",
+    "Name": "Cayman Islands Dollar"
+  },
+  "centralafricanrepublic": {
+    "Territory": "Central African Republic",
+    "Code": "CF",
+    "Currency": "XAF",
+    "Name": "Central African CFA Franc"
+  },
+  "ceutamelilla": {
+    "Territory": "Ceuta & Melilla",
+    "Code": "EA",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "chad": {
+    "Territory": "Chad",
+    "Code": "TD",
+    "Currency": "XAF",
+    "Name": "Central African CFA Franc"
+  },
+  "chile": {
+    "Territory": "Chile",
+    "Code": "CL",
+    "Currency": "CLP",
+    "Name": "Chilean Peso"
+  },
+  "china": {
+    "Territory": "China",
+    "Code": "CN",
+    "Currency": "CNY",
+    "Name": "Chinese Yuan"
+  },
+  "christmasisland": {
+    "Territory": "Christmas Island",
+    "Code": "CX",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "cocoskeelingislands": {
+    "Territory": "Cocos (Keeling) Islands",
+    "Code": "CC",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "colombia": {
+    "Territory": "Colombia",
+    "Code": "CO",
+    "Currency": "COP",
+    "Name": "Colombian Peso"
+  },
+  "comoros": {
+    "Territory": "Comoros",
+    "Code": "KM",
+    "Currency": "KMF",
+    "Name": "Comorian Franc"
+  },
+  "congobrazzaville": {
+    "Territory": "Congo - Brazzaville",
+    "Code": "CG",
+    "Currency": "XAF",
+    "Name": "Central African CFA Franc"
+  },
+  "congokinshasa": {
+    "Territory": "Congo - Kinshasa",
+    "Code": "CD",
+    "Currency": "CDF",
+    "Name": "Congolese Franc"
+  },
+  "cookislands": {
+    "Territory": "Cook Islands",
+    "Code": "CK",
+    "Currency": "NZD",
+    "Name": "New Zealand Dollar"
+  },
+  "costarica": {
+    "Territory": "Costa Rica",
+    "Code": "CR",
+    "Currency": "CRC",
+    "Name": "Costa Rican Colón"
+  },
+  "côtedivoire": {
+    "Territory": "Côte d’Ivoire",
+    "Code": "CI",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "croatia": {
+    "Territory": "Croatia",
+    "Code": "HR",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "cuba": {
+    "Territory": "Cuba",
+    "Code": "CU",
+    "Currency": "CUP",
+    "Name": "Cuban Peso"
+  },
+  "curaçao": {
+    "Territory": "Curaçao",
+    "Code": "CW",
+    "Currency": "ANG",
+    "Name": "Netherlands Antillean Guilder"
+  },
+  "cyprus": {
+    "Territory": "Cyprus",
+    "Code": "CY",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "czechia": {
+    "Territory": "Czechia",
+    "Code": "CZ",
+    "Currency": "CZK",
+    "Name": "Czech Koruna"
+  },
+  "denmark": {
+    "Territory": "Denmark",
+    "Code": "DK",
+    "Currency": "DKK",
+    "Name": "Danish Krone"
+  },
+  "diegogarcia": {
+    "Territory": "Diego Garcia",
+    "Code": "DG",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "djibouti": {
+    "Territory": "Djibouti",
+    "Code": "DJ",
+    "Currency": "DJF",
+    "Name": "Djiboutian Franc"
+  },
+  "dominica": {
+    "Territory": "Dominica",
+    "Code": "DM",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "dominicanrepublic": {
+    "Territory": "Dominican Republic",
+    "Code": "DO",
+    "Currency": "DOP",
+    "Name": "Dominican Peso"
+  },
+  "ecuador": {
+    "Territory": "Ecuador",
+    "Code": "EC",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "egypt": {
+    "Territory": "Egypt",
+    "Code": "EG",
+    "Currency": "EGP",
+    "Name": "Egyptian Pound"
+  },
+  "elsalvador": {
+    "Territory": "El Salvador",
+    "Code": "SV",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "equatorialguinea": {
+    "Territory": "Equatorial Guinea",
+    "Code": "GQ",
+    "Currency": "XAF",
+    "Name": "Central African CFA Franc"
+  },
+  "eritrea": {
+    "Territory": "Eritrea",
+    "Code": "ER",
+    "Currency": "ERN",
+    "Name": "Eritrean Nakfa"
+  },
+  "estonia": {
+    "Territory": "Estonia",
+    "Code": "EE",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "eswatini": {
+    "Territory": "Eswatini",
+    "Code": "SZ",
+    "Currency": "SZL",
+    "Name": "Swazi Lilangeni"
+  },
+  "ethiopia": {
+    "Territory": "Ethiopia",
+    "Code": "ET",
+    "Currency": "ETB",
+    "Name": "Ethiopian Birr"
+  },
+  "falklandislands": {
+    "Territory": "Falkland Islands",
+    "Code": "FK",
+    "Currency": "FKP",
+    "Name": "Falkland Islands Pound"
+  },
+  "faroeislands": {
+    "Territory": "Faroe Islands",
+    "Code": "FO",
+    "Currency": "DKK",
+    "Name": "Danish Krone"
+  },
+  "fiji": {
+    "Territory": "Fiji",
+    "Code": "FJ",
+    "Currency": "FJD",
+    "Name": "Fijian Dollar"
+  },
+  "finland": {
+    "Territory": "Finland",
+    "Code": "FI",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "france": {
+    "Territory": "France",
+    "Code": "FR",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "frenchguiana": {
+    "Territory": "French Guiana",
+    "Code": "GF",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "frenchpolynesia": {
+    "Territory": "French Polynesia",
+    "Code": "PF",
+    "Currency": "XPF",
+    "Name": "CFP Franc"
+  },
+  "frenchsouthernterritories": {
+    "Territory": "French Southern Territories",
+    "Code": "TF",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "gabon": {
+    "Territory": "Gabon",
+    "Code": "GA",
+    "Currency": "XAF",
+    "Name": "Central African CFA Franc"
+  },
+  "gambia": {
+    "Territory": "Gambia",
+    "Code": "GM",
+    "Currency": "GMD",
+    "Name": "Gambian Dalasi"
+  },
+  "georgia": {
+    "Territory": "Georgia",
+    "Code": "GE",
+    "Currency": "GEL",
+    "Name": "Georgian Lari"
+  },
+  "germany": {
+    "Territory": "Germany",
+    "Code": "DE",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "ghana": {
+    "Territory": "Ghana",
+    "Code": "GH",
+    "Currency": "GHS",
+    "Name": "Ghanaian Cedi"
+  },
+  "gibraltar": {
+    "Territory": "Gibraltar",
+    "Code": "GI",
+    "Currency": "GIP",
+    "Name": "Gibraltar Pound"
+  },
+  "greece": {
+    "Territory": "Greece",
+    "Code": "GR",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "greenland": {
+    "Territory": "Greenland",
+    "Code": "GL",
+    "Currency": "DKK",
+    "Name": "Danish Krone"
+  },
+  "grenada": {
+    "Territory": "Grenada",
+    "Code": "GD",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "guadeloupe": {
+    "Territory": "Guadeloupe",
+    "Code": "GP",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "guam": {
+    "Territory": "Guam",
+    "Code": "GU",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "guatemala": {
+    "Territory": "Guatemala",
+    "Code": "GT",
+    "Currency": "GTQ",
+    "Name": "Guatemalan Quetzal"
+  },
+  "guernsey": {
+    "Territory": "Guernsey",
+    "Code": "GG",
+    "Currency": "GBP",
+    "Name": "British Pound"
+  },
+  "guinea": {
+    "Territory": "Guinea",
+    "Code": "GN",
+    "Currency": "GNF",
+    "Name": "Guinean Franc"
+  },
+  "guineabissau": {
+    "Territory": "Guinea-Bissau",
+    "Code": "GW",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "guyana": {
+    "Territory": "Guyana",
+    "Code": "GY",
+    "Currency": "GYD",
+    "Name": "Guyanaese Dollar"
+  },
+  "haiti": {
+    "Territory": "Haiti",
+    "Code": "HT",
+    "Currency": "HTG",
+    "Name": "Haitian Gourde"
+  },
+  "heardmcdonaldislands": {
+    "Territory": "Heard & McDonald Islands",
+    "Code": "HM",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "honduras": {
+    "Territory": "Honduras",
+    "Code": "HN",
+    "Currency": "HNL",
+    "Name": "Honduran Lempira"
+  },
+  "hongkongsarchina": {
+    "Territory": "Hong Kong SAR China",
+    "Code": "HK",
+    "Currency": "HKD",
+    "Name": "Hong Kong Dollar"
+  },
+  "hungary": {
+    "Territory": "Hungary",
+    "Code": "HU",
+    "Currency": "HUF",
+    "Name": "Hungarian Forint"
+  },
+  "iceland": {
+    "Territory": "Iceland",
+    "Code": "IS",
+    "Currency": "ISK",
+    "Name": "Icelandic Króna"
+  },
+  "india": {
+    "Territory": "India",
+    "Code": "IN",
+    "Currency": "INR",
+    "Name": "Indian Rupee"
+  },
+  "indonesia": {
+    "Territory": "Indonesia",
+    "Code": "ID",
+    "Currency": "IDR",
+    "Name": "Indonesian Rupiah"
+  },
+  "iran": {
+    "Territory": "Iran",
+    "Code": "IR",
+    "Currency": "IRR",
+    "Name": "Iranian Rial"
+  },
+  "iraq": {
+    "Territory": "Iraq",
+    "Code": "IQ",
+    "Currency": "IQD",
+    "Name": "Iraqi Dinar"
+  },
+  "ireland": {
+    "Territory": "Ireland",
+    "Code": "IE",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "isleofman": {
+    "Territory": "Isle of Man",
+    "Code": "IM",
+    "Currency": "GBP",
+    "Name": "British Pound"
+  },
+  "israel": {
+    "Territory": "Israel",
+    "Code": "IL",
+    "Currency": "ILS",
+    "Name": "Israeli New Shekel"
+  },
+  "italy": {
+    "Territory": "Italy",
+    "Code": "IT",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "jamaica": {
+    "Territory": "Jamaica",
+    "Code": "JM",
+    "Currency": "JMD",
+    "Name": "Jamaican Dollar"
+  },
+  "japan": {
+    "Territory": "Japan",
+    "Code": "JP",
+    "Currency": "JPY",
+    "Name": "Japanese Yen"
+  },
+  "jersey": {
+    "Territory": "Jersey",
+    "Code": "JE",
+    "Currency": "GBP",
+    "Name": "British Pound"
+  },
+  "jordan": {
+    "Territory": "Jordan",
+    "Code": "JO",
+    "Currency": "JOD",
+    "Name": "Jordanian Dinar"
+  },
+  "kazakhstan": {
+    "Territory": "Kazakhstan",
+    "Code": "KZ",
+    "Currency": "KZT",
+    "Name": "Kazakhstani Tenge"
+  },
+  "kenya": {
+    "Territory": "Kenya",
+    "Code": "KE",
+    "Currency": "KES",
+    "Name": "Kenyan Shilling"
+  },
+  "kiribati": {
+    "Territory": "Kiribati",
+    "Code": "KI",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "kosovo": {
+    "Territory": "Kosovo",
+    "Code": "XK",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "kuwait": {
+    "Territory": "Kuwait",
+    "Code": "KW",
+    "Currency": "KWD",
+    "Name": "Kuwaiti Dinar"
+  },
+  "kyrgyzstan": {
+    "Territory": "Kyrgyzstan",
+    "Code": "KG",
+    "Currency": "KGS",
+    "Name": "Kyrgystani Som"
+  },
+  "laos": {
+    "Territory": "Laos",
+    "Code": "LA",
+    "Currency": "LAK",
+    "Name": "Laotian Kip"
+  },
+  "latvia": {
+    "Territory": "Latvia",
+    "Code": "LV",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "lebanon": {
+    "Territory": "Lebanon",
+    "Code": "LB",
+    "Currency": "LBP",
+    "Name": "Lebanese Pound"
+  },
+  "lesotho": {
+    "Territory": "Lesotho",
+    "Code": "LS",
+    "Currency": "ZAR",
+    "Name": "South African Rand"
+  },
+  "liberia": {
+    "Territory": "Liberia",
+    "Code": "LR",
+    "Currency": "LRD",
+    "Name": "Liberian Dollar"
+  },
+  "libya": {
+    "Territory": "Libya",
+    "Code": "LY",
+    "Currency": "LYD",
+    "Name": "Libyan Dinar"
+  },
+  "liechtenstein": {
+    "Territory": "Liechtenstein",
+    "Code": "LI",
+    "Currency": "CHF",
+    "Name": "Swiss Franc"
+  },
+  "lithuania": {
+    "Territory": "Lithuania",
+    "Code": "LT",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "luxembourg": {
+    "Territory": "Luxembourg",
+    "Code": "LU",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "macaosarchina": {
+    "Territory": "Macao SAR China",
+    "Code": "MO",
+    "Currency": "MOP",
+    "Name": "Macanese Pataca"
+  },
+  "madagascar": {
+    "Territory": "Madagascar",
+    "Code": "MG",
+    "Currency": "MGA",
+    "Name": "Malagasy Ariary"
+  },
+  "malawi": {
+    "Territory": "Malawi",
+    "Code": "MW",
+    "Currency": "MWK",
+    "Name": "Malawian Kwacha"
+  },
+  "malaysia": {
+    "Territory": "Malaysia",
+    "Code": "MY",
+    "Currency": "MYR",
+    "Name": "Malaysian Ringgit"
+  },
+  "maldives": {
+    "Territory": "Maldives",
+    "Code": "MV",
+    "Currency": "MVR",
+    "Name": "Maldivian Rufiyaa"
+  },
+  "mali": {
+    "Territory": "Mali",
+    "Code": "ML",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "malta": {
+    "Territory": "Malta",
+    "Code": "MT",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "marshallislands": {
+    "Territory": "Marshall Islands",
+    "Code": "MH",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "martinique": {
+    "Territory": "Martinique",
+    "Code": "MQ",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "mauritania": {
+    "Territory": "Mauritania",
+    "Code": "MR",
+    "Currency": "MRU",
+    "Name": "Mauritanian Ouguiya"
+  },
+  "mauritius": {
+    "Territory": "Mauritius",
+    "Code": "MU",
+    "Currency": "MUR",
+    "Name": "Mauritian Rupee"
+  },
+  "mayotte": {
+    "Territory": "Mayotte",
+    "Code": "YT",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "mexico": {
+    "Territory": "Mexico",
+    "Code": "MX",
+    "Currency": "MXN",
+    "Name": "Mexican Peso"
+  },
+  "micronesia": {
+    "Territory": "Micronesia",
+    "Code": "FM",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "moldova": {
+    "Territory": "Moldova",
+    "Code": "MD",
+    "Currency": "MDL",
+    "Name": "Moldovan Leu"
+  },
+  "monaco": {
+    "Territory": "Monaco",
+    "Code": "MC",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "mongolia": {
+    "Territory": "Mongolia",
+    "Code": "MN",
+    "Currency": "MNT",
+    "Name": "Mongolian Tugrik"
+  },
+  "montenegro": {
+    "Territory": "Montenegro",
+    "Code": "ME",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "montserrat": {
+    "Territory": "Montserrat",
+    "Code": "MS",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "morocco": {
+    "Territory": "Morocco",
+    "Code": "MA",
+    "Currency": "MAD",
+    "Name": "Moroccan Dirham"
+  },
+  "mozambique": {
+    "Territory": "Mozambique",
+    "Code": "MZ",
+    "Currency": "MZN",
+    "Name": "Mozambican Metical"
+  },
+  "myanmarburma": {
+    "Territory": "Myanmar (Burma)",
+    "Code": "MM",
+    "Currency": "MMK",
+    "Name": "Myanmar Kyat"
+  },
+  "namibia": {
+    "Territory": "Namibia",
+    "Code": "NA",
+    "Currency": "NAD",
+    "Name": "Namibian Dollar"
+  },
+  "nauru": {
+    "Territory": "Nauru",
+    "Code": "NR",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "nepal": {
+    "Territory": "Nepal",
+    "Code": "NP",
+    "Currency": "NPR",
+    "Name": "Nepalese Rupee"
+  },
+  "netherlands": {
+    "Territory": "Netherlands",
+    "Code": "NL",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "newcaledonia": {
+    "Territory": "New Caledonia",
+    "Code": "NC",
+    "Currency": "XPF",
+    "Name": "CFP Franc"
+  },
+  "newzealand": {
+    "Territory": "New Zealand",
+    "Code": "NZ",
+    "Currency": "NZD",
+    "Name": "New Zealand Dollar"
+  },
+  "nicaragua": {
+    "Territory": "Nicaragua",
+    "Code": "NI",
+    "Currency": "NIO",
+    "Name": "Nicaraguan Córdoba"
+  },
+  "niger": {
+    "Territory": "Niger",
+    "Code": "NE",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "nigeria": {
+    "Territory": "Nigeria",
+    "Code": "NG",
+    "Currency": "NGN",
+    "Name": "Nigerian Naira"
+  },
+  "niue": {
+    "Territory": "Niue",
+    "Code": "NU",
+    "Currency": "NZD",
+    "Name": "New Zealand Dollar"
+  },
+  "norfolkisland": {
+    "Territory": "Norfolk Island",
+    "Code": "NF",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "northkorea": {
+    "Territory": "North Korea",
+    "Code": "KP",
+    "Currency": "KPW",
+    "Name": "North Korean Won"
+  },
+  "northmacedonia": {
+    "Territory": "North Macedonia",
+    "Code": "MK",
+    "Currency": "MKD",
+    "Name": "Macedonian Denar"
+  },
+  "northernmarianaislands": {
+    "Territory": "Northern Mariana Islands",
+    "Code": "MP",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "norway": {
+    "Territory": "Norway",
+    "Code": "NO",
+    "Currency": "NOK",
+    "Name": "Norwegian Krone"
+  },
+  "oman": {
+    "Territory": "Oman",
+    "Code": "OM",
+    "Currency": "OMR",
+    "Name": "Omani Rial"
+  },
+  "pakistan": {
+    "Territory": "Pakistan",
+    "Code": "PK",
+    "Currency": "PKR",
+    "Name": "Pakistani Rupee"
+  },
+  "palau": {
+    "Territory": "Palau",
+    "Code": "PW",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "palestinianterritories": {
+    "Territory": "Palestinian Territories",
+    "Code": "PS",
+    "Currency": "ILS",
+    "Name": "Israeli New Shekel"
+  },
+  "panama": {
+    "Territory": "Panama",
+    "Code": "PA",
+    "Currency": "PAB",
+    "Name": "Panamanian Balboa"
+  },
+  "papuanewguinea": {
+    "Territory": "Papua New Guinea",
+    "Code": "PG",
+    "Currency": "PGK",
+    "Name": "Papua New Guinean Kina"
+  },
+  "paraguay": {
+    "Territory": "Paraguay",
+    "Code": "PY",
+    "Currency": "PYG",
+    "Name": "Paraguayan Guarani"
+  },
+  "peru": {
+    "Territory": "Peru",
+    "Code": "PE",
+    "Currency": "PEN",
+    "Name": "Peruvian Sol"
+  },
+  "philippines": {
+    "Territory": "Philippines",
+    "Code": "PH",
+    "Currency": "PHP",
+    "Name": "Philippine Peso"
+  },
+  "pitcairnislands": {
+    "Territory": "Pitcairn Islands",
+    "Code": "PN",
+    "Currency": "NZD",
+    "Name": "New Zealand Dollar"
+  },
+  "poland": {
+    "Territory": "Poland",
+    "Code": "PL",
+    "Currency": "PLN",
+    "Name": "Polish Zloty"
+  },
+  "portugal": {
+    "Territory": "Portugal",
+    "Code": "PT",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "puertorico": {
+    "Territory": "Puerto Rico",
+    "Code": "PR",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "qatar": {
+    "Territory": "Qatar",
+    "Code": "QA",
+    "Currency": "QAR",
+    "Name": "Qatari Riyal"
+  },
+  "réunion": {
+    "Territory": "Réunion",
+    "Code": "RE",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "romania": {
+    "Territory": "Romania",
+    "Code": "RO",
+    "Currency": "RON",
+    "Name": "Romanian Leu"
+  },
+  "russia": {
+    "Territory": "Russia",
+    "Code": "RU",
+    "Currency": "RUB",
+    "Name": "Russian Ruble"
+  },
+  "rwanda": {
+    "Territory": "Rwanda",
+    "Code": "RW",
+    "Currency": "RWF",
+    "Name": "Rwandan Franc"
+  },
+  "samoa": {
+    "Territory": "Samoa",
+    "Code": "WS",
+    "Currency": "WST",
+    "Name": "Samoan Tala"
+  },
+  "sanmarino": {
+    "Territory": "San Marino",
+    "Code": "SM",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "sãotomépríncipe": {
+    "Territory": "São Tomé & Príncipe",
+    "Code": "ST",
+    "Currency": "STN",
+    "Name": "São Tomé & Príncipe Dobra"
+  },
+  "saudiarabia": {
+    "Territory": "Saudi Arabia",
+    "Code": "SA",
+    "Currency": "SAR",
+    "Name": "Saudi Riyal"
+  },
+  "senegal": {
+    "Territory": "Senegal",
+    "Code": "SN",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "serbia": {
+    "Territory": "Serbia",
+    "Code": "RS",
+    "Currency": "RSD",
+    "Name": "Serbian Dinar"
+  },
+  "seychelles": {
+    "Territory": "Seychelles",
+    "Code": "SC",
+    "Currency": "SCR",
+    "Name": "Seychellois Rupee"
+  },
+  "sierraleone": {
+    "Territory": "Sierra Leone",
+    "Code": "SL",
+    "Currency": "SLE",
+    "Name": "Sierra Leonean Leone"
+  },
+  "singapore": {
+    "Territory": "Singapore",
+    "Code": "SG",
+    "Currency": "SGD",
+    "Name": "Singapore Dollar"
+  },
+  "sintmaarten": {
+    "Territory": "Sint Maarten",
+    "Code": "SX",
+    "Currency": "ANG",
+    "Name": "Netherlands Antillean Guilder"
+  },
+  "slovakia": {
+    "Territory": "Slovakia",
+    "Code": "SK",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "slovenia": {
+    "Territory": "Slovenia",
+    "Code": "SI",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "solomonislands": {
+    "Territory": "Solomon Islands",
+    "Code": "SB",
+    "Currency": "SBD",
+    "Name": "Solomon Islands Dollar"
+  },
+  "somalia": {
+    "Territory": "Somalia",
+    "Code": "SO",
+    "Currency": "SOS",
+    "Name": "Somali Shilling"
+  },
+  "southafrica": {
+    "Territory": "South Africa",
+    "Code": "ZA",
+    "Currency": "ZAR",
+    "Name": "South African Rand"
+  },
+  "southgeorgiasouthsandwichislands": {
+    "Territory": "South Georgia & South Sandwich Islands",
+    "Code": "GS",
+    "Currency": "GBP",
+    "Name": "British Pound"
+  },
+  "southkorea": {
+    "Territory": "South Korea",
+    "Code": "KR",
+    "Currency": "KRW",
+    "Name": "South Korean Won"
+  },
+  "southsudan": {
+    "Territory": "South Sudan",
+    "Code": "SS",
+    "Currency": "SSP",
+    "Name": "South Sudanese Pound"
+  },
+  "spain": {
+    "Territory": "Spain",
+    "Code": "ES",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "srilanka": {
+    "Territory": "Sri Lanka",
+    "Code": "LK",
+    "Currency": "LKR",
+    "Name": "Sri Lankan Rupee"
+  },
+  "stbarthélemy": {
+    "Territory": "St. Barthélemy",
+    "Code": "BL",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "sthelena": {
+    "Territory": "St. Helena",
+    "Code": "SH",
+    "Currency": "SHP",
+    "Name": "St. Helena Pound"
+  },
+  "stkittsnevis": {
+    "Territory": "St. Kitts & Nevis",
+    "Code": "KN",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "stlucia": {
+    "Territory": "St. Lucia",
+    "Code": "LC",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "stmartin": {
+    "Territory": "St. Martin",
+    "Code": "MF",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "stpierremiquelon": {
+    "Territory": "St. Pierre & Miquelon",
+    "Code": "PM",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "stvincentgrenadines": {
+    "Territory": "St. Vincent & Grenadines",
+    "Code": "VC",
+    "Currency": "XCD",
+    "Name": "East Caribbean Dollar"
+  },
+  "sudan": {
+    "Territory": "Sudan",
+    "Code": "SD",
+    "Currency": "SDG",
+    "Name": "Sudanese Pound"
+  },
+  "suriname": {
+    "Territory": "Suriname",
+    "Code": "SR",
+    "Currency": "SRD",
+    "Name": "Surinamese Dollar"
+  },
+  "svalbardjanmayen": {
+    "Territory": "Svalbard & Jan Mayen",
+    "Code": "SJ",
+    "Currency": "NOK",
+    "Name": "Norwegian Krone"
+  },
+  "sweden": {
+    "Territory": "Sweden",
+    "Code": "SE",
+    "Currency": "SEK",
+    "Name": "Swedish Krona"
+  },
+  "switzerland": {
+    "Territory": "Switzerland",
+    "Code": "CH",
+    "Currency": "CHF",
+    "Name": "Swiss Franc"
+  },
+  "syria": {
+    "Territory": "Syria",
+    "Code": "SY",
+    "Currency": "SYP",
+    "Name": "Syrian Pound"
+  },
+  "taiwan": {
+    "Territory": "Taiwan",
+    "Code": "TW",
+    "Currency": "TWD",
+    "Name": "New Taiwan Dollar"
+  },
+  "tajikistan": {
+    "Territory": "Tajikistan",
+    "Code": "TJ",
+    "Currency": "TJS",
+    "Name": "Tajikistani Somoni"
+  },
+  "tanzania": {
+    "Territory": "Tanzania",
+    "Code": "TZ",
+    "Currency": "TZS",
+    "Name": "Tanzanian Shilling"
+  },
+  "thailand": {
+    "Territory": "Thailand",
+    "Code": "TH",
+    "Currency": "THB",
+    "Name": "Thai Baht"
+  },
+  "timorleste": {
+    "Territory": "Timor-Leste",
+    "Code": "TL",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "togo": {
+    "Territory": "Togo",
+    "Code": "TG",
+    "Currency": "XOF",
+    "Name": "West African CFA Franc"
+  },
+  "tokelau": {
+    "Territory": "Tokelau",
+    "Code": "TK",
+    "Currency": "NZD",
+    "Name": "New Zealand Dollar"
+  },
+  "tonga": {
+    "Territory": "Tonga",
+    "Code": "TO",
+    "Currency": "TOP",
+    "Name": "Tongan Paʻanga"
+  },
+  "trinidadtobago": {
+    "Territory": "Trinidad & Tobago",
+    "Code": "TT",
+    "Currency": "TTD",
+    "Name": "Trinidad & Tobago Dollar"
+  },
+  "tristandacunha": {
+    "Territory": "Tristan da Cunha",
+    "Code": "TA",
+    "Currency": "GBP",
+    "Name": "British Pound"
+  },
+  "tunisia": {
+    "Territory": "Tunisia",
+    "Code": "TN",
+    "Currency": "TND",
+    "Name": "Tunisian Dinar"
+  },
+  "türkiye": {
+    "Territory": "Türkiye",
+    "Code": "TR",
+    "Currency": "TRY",
+    "Name": "Turkish Lira"
+  },
+  "turkmenistan": {
+    "Territory": "Turkmenistan",
+    "Code": "TM",
+    "Currency": "TMT",
+    "Name": "Turkmenistani Manat"
+  },
+  "turkscaicosislands": {
+    "Territory": "Turks & Caicos Islands",
+    "Code": "TC",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "tuvalu": {
+    "Territory": "Tuvalu",
+    "Code": "TV",
+    "Currency": "AUD",
+    "Name": "Australian Dollar"
+  },
+  "usoutlyingislands": {
+    "Territory": "U.S. Outlying Islands",
+    "Code": "UM",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "usvirginislands": {
+    "Territory": "U.S. Virgin Islands",
+    "Code": "VI",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "uganda": {
+    "Territory": "Uganda",
+    "Code": "UG",
+    "Currency": "UGX",
+    "Name": "Ugandan Shilling"
+  },
+  "ukraine": {
+    "Territory": "Ukraine",
+    "Code": "UA",
+    "Currency": "UAH",
+    "Name": "Ukrainian Hryvnia"
+  },
+  "unitedarabemirates": {
+    "Territory": "United Arab Emirates",
+    "Code": "AE",
+    "Currency": "AED",
+    "Name": "United Arab Emirates Dirham"
+  },
+  "unitedkingdom": {
+    "Territory": "United Kingdom",
+    "Code": "GB",
+    "Currency": "GBP",
+    "Name": "British Pound"
+  },
+  "unitedstates": {
+    "Territory": "United States",
+    "Code": "US",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  },
+  "uruguay": {
+    "Territory": "Uruguay",
+    "Code": "UY",
+    "Currency": "UYU",
+    "Name": "Uruguayan Peso"
+  },
+  "uzbekistan": {
+    "Territory": "Uzbekistan",
+    "Code": "UZ",
+    "Currency": "UZS",
+    "Name": "Uzbekistani Som"
+  },
+  "vanuatu": {
+    "Territory": "Vanuatu",
+    "Code": "VU",
+    "Currency": "VUV",
+    "Name": "Vanuatu Vatu"
+  },
+  "vaticancity": {
+    "Territory": "Vatican City",
+    "Code": "VA",
+    "Currency": "EUR",
+    "Name": "Euro"
+  },
+  "venezuela": {
+    "Territory": "Venezuela",
+    "Code": "VE",
+    "Currency": "VES",
+    "Name": "Venezuelan Bolívar"
+  },
+  "vietnam": {
+    "Territory": "Vietnam",
+    "Code": "VN",
+    "Currency": "VND",
+    "Name": "Vietnamese Dong"
+  },
+  "wallisfutuna": {
+    "Territory": "Wallis & Futuna",
+    "Code": "WF",
+    "Currency": "XPF",
+    "Name": "CFP Franc"
+  },
+  "westernsahara": {
+    "Territory": "Western Sahara",
+    "Code": "EH",
+    "Currency": "MAD",
+    "Name": "Moroccan Dirham"
+  },
+  "yemen": {
+    "Territory": "Yemen",
+    "Code": "YE",
+    "Currency": "YER",
+    "Name": "Yemeni Rial"
+  },
+  "zambia": {
+    "Territory": "Zambia",
+    "Code": "ZM",
+    "Currency": "ZMW",
+    "Name": "Zambian Kwacha"
+  },
+  "zimbabwe": {
+    "Territory": "Zimbabwe",
+    "Code": "ZW",
+    "Currency": "USD",
+    "Name": "US Dollar"
+  }
+}
